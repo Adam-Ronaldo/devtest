@@ -10,4 +10,7 @@ public class Test {
 		
 	
 	}
+	public String whmethod() {
+		return "우현 고속도로주인";
+	}
 }
